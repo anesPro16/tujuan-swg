@@ -1,0 +1,4 @@
+Tujuan Swg
+a. belajar bostrap css
+b. belajar css flexbox dan css grid
+c. belajar javascript
